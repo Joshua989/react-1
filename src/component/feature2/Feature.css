@@ -39,6 +39,7 @@ background: #1010100D;
     height: 177px;
     align-content: center;
     margin-bottom: 20px;
+    font-family: varela Round;
     
 }
 .btn-gra{
@@ -77,4 +78,8 @@ margin-right: 5px;
 }
 .img1{
     width: 5px;
+}
+button{
+ background: linear-gradient(90deg, #5200FF 0%, #FF0059 100%);
+    ;
 }
