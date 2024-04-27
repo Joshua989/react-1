@@ -6,10 +6,9 @@
 .Nav-link{
     color: white;
     display: flex;
-    height: 30px;
     justify-content: center;
     justify-content: space-between;
-    width: 930px;
+    width: 900px;
     margin-top: 105px;
 }
 a{

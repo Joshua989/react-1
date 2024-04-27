@@ -1,6 +1,9 @@
 .feature-body{
     display: flex;
     justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    
 }
 
 .main{
@@ -29,7 +32,7 @@
 }
 h1{
     font-family: "Bitter", serif;;
-   font-size: 128px;
+   font-size: 100px;
     font-weight: 800;
   line-height: 128px;
 text-align: left;
