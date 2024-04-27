@@ -26,6 +26,7 @@ align-items: center;
 background: #1010100D;
 
 
+
 }
 .sub-b11{
     box-sizing: border-box;
@@ -98,6 +99,7 @@ opacity: 0px;
 
 }
 .btn-bum{
+    align-content: center;
     text-align: center;
     font-size: 24px;
     color: white;
