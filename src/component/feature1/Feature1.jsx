@@ -11,7 +11,7 @@ const Feature1 = () => {
              <p className='p1'>Cheapest fees without even <br /> connecting your wallet</p>   
             </div>
             <div className='man-img'>
-            <img src={man} alt="Man" />
+            <img style={{height:"600px" , width:"600px", marginBottom:"0"}} src={man} alt="Man" />
 
             </div>
             

@@ -7,10 +7,10 @@
 }
 
 .main{
-    width: 1753px;
-    height: 669px;
-    margin-top: 245px;
-    padding: 15px 30px 15px 30px;
+    width: 1500px;
+    padding-bottom: 0;
+    height: 600px;
+    margin-top: 200px;
     border-radius:15px; 
     background-color: rgba(113, 0, 255, 0);
     border: 3px solid #FBAD70;
@@ -28,24 +28,25 @@
     display: flex;
     flex-direction: column;
     color: white;
-    margin-top: 160px;
+    margin-top: 140px;
 }
 h1{
     font-family: "Bitter", serif;;
-   font-size: 100px;
-    font-weight: 800;
-  line-height: 128px;
+   font-size: 80px;
+    font-weight: 1000;
 text-align: left;
 margin-bottom: 30px;
+margin-left: 50px;
 
 }
 .p1{
     font-family: Scada;
-    font-size: 48px;
+    font-size: 30px;
     font-weight: 200;
     line-height: 68.38px;
     text-align: left;
     color: #AFAFAF;
+    margin-left: 50px
     ;
   
 
