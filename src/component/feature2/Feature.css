@@ -79,7 +79,34 @@ margin-right: 5px;
 .img1{
     width: 5px;
 }
-button{
- background: linear-gradient(90deg, #5200FF 0%, #FF0059 100%);
-    ;
+
+
+.box-2{
+    display: flex;
+align-items: flex-end;
+padding-bottom: 20px;
+}
+.sub-box{
+background: linear-gradient(95.22deg, #ED006A 4.18%, #D10085 33.79%, #5700FA 87.37%);
+color: white;
+width: 599px;
+height: 213px;
+padding: 12px 40px 12px 40px;
+gap: 10px;
+border-radius: 18px 0px 0px 0px;
+opacity: 0px;
+
+}
+.btn-bum{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    width: 519px;
+height: 84px;
+padding: 10px 0px 0px 0px;
+gap: 10px;
+border-radius: 14px 0px 0px 0px;
+border: 0px 1px 0px 0px;
+opacity: 0px;
+
 }

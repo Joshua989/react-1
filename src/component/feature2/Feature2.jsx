@@ -69,7 +69,7 @@ function Feature2() {
                             <img style={{width :"30px", height:"30px" , marginLeft:"30px"}} src={fox} alt='hss' />
 
                         </div>
-                        <button  style={{width:"1079px", height:"100.5px" , color:"white", fontFamily:'Valera Round', fontSize:"35px"}}>
+                        <button  style={{width:"1079px", height:"100.5px" , color:"white", fontFamily:'Varela Round', fontSize:"35px", border:"none", borderRadius:"14px" , background: "linear-gradient(90deg, #5200FF 0%, #FF0059 100%)"}}>
                         Exchange
                         </button>
                     </div>
@@ -77,8 +77,8 @@ function Feature2() {
                 </div>
                 <div className='box-2'>
                     <div className='sub-box'>
-                        <p>Please make sure you’re on https://app.tochiswap.co</p>
-                        <button><img src={lock_checked} alt="img" /></button>
+                        <p style={{fontFamily:"Varela Round", fontSize:"36px" , fontWeight:"36px"}}>Please make sure you’re on https://app.tochiswap.co</p>
+                        <button style={{backgroundColor:"black"}} className='btn-bum'><img src={lock_checked} alt="img" /> secure</button>
                     </div>
                 </div>
             </div>
