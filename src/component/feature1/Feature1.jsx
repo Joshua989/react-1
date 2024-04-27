@@ -8,7 +8,7 @@ const Feature1 = () => {
         <div className='main'>
             <div className='words'>
             <h1>Tochi-Tools</h1>
-             <p>Cheapest fees without even <br /> connecting your wallet</p>   
+             <p className='p1'>Cheapest fees without even <br /> connecting your wallet</p>   
             </div>
             <div className='man-img'>
             <img src={man} alt="Man" />
