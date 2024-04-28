@@ -50,6 +50,11 @@ margin-left: 50px;
   
 
 }
+img{
+    width: 500px;
+    height: 600px;
+    margin-bottom: 0;
+}
 @media screen and (max-width: 768px) {
     img{
         display: block;

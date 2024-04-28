@@ -17,7 +17,7 @@ function Feature2() {
               <p className="e">Exchange Crypto</p>
             </button>
             <div className="sm-1">
-              <p className="p2">Buy / Sell Crypto</p>
+              <p className="p2">Buy/Sell Crypto</p>
               <img
                 style={{ width: "30px", height: "30px" }}
                 src={wallet}
@@ -34,7 +34,7 @@ function Feature2() {
               <p
                 style={{
                   fontFamily: "varela Round",
-                  fontSize: "30px",
+                  fontSize: "17px",
                   marginRight: "5px",
                 }}
               >
@@ -48,22 +48,22 @@ function Feature2() {
             </div>
           </div>
           <div
-            style={{ justifyContent: "space-between", paddingRight: "100px" }}
+            style={{ justifyContent: "space-between", paddingRight: "100px",  }}
             className="sub-b11"
           >
             <div
               style={{
                 display: " flex",
                 flexDirection: "column",
-                paddingTop: "30px",
               }}
             >
               <p
                 style={{
                   color: "#7A7A77",
                   width: "300",
-                  fontSize: "36px",
+                  fontSize: "20px",
                   fontFamily: "varela Round",
+                  marginBottom: "10px",
                 }}
               >
                 You Send
@@ -72,8 +72,9 @@ function Feature2() {
                 style={{
                   color: "#FBAD70",
                   fontWeight: "400",
-                  fontSize: "60PX",
-                  fontFamily: "varera Round",
+                  fontSize: "30PX",
+                  fontFamily: "varela Round",
+                  marginBottom:"40px"
                 }}
               >
                 0.01
@@ -88,7 +89,7 @@ function Feature2() {
               <h4
                 style={{
                   fontWeight: "400",
-                  fontSize: "35px",
+                  fontSize: "30px",
                   fontFamily: "varela Round",
                   marginRight: "10px,",
                 }}
@@ -104,17 +105,15 @@ function Feature2() {
           </div>
           <div
             style={{
-              height: "100px",
               border: "none",
               flexDirection: "column",
               paddingRight: "0",
               paddingLeft: "0px",
-              justifyContent: "space-between",
             }}
             className="sub-b11"
           >
-            <p style={{ fontSize: "20px" }}>No hidden fees</p>
-            <p style={{ fontSize: "20px" }}>
+            <p style={{ fontSize: "15px",  }}>No hidden fees</p>
+            <p style={{ fontSize: "15px",  marginBottom:"10px"}}>
               Estimated rate: 1BTC - 13.488888 ETH
             </p>
           </div>
@@ -126,14 +125,13 @@ function Feature2() {
               style={{
                 display: " flex",
                 flexDirection: "column",
-                paddingTop: "30px",
               }}
             >
               <p
                 style={{
                   color: "#7A7A77",
                   width: "300",
-                  fontSize: "36px",
+                  fontSize: "25px",
                   fontFamily: "varela Round",
                 }}
               >
@@ -143,8 +141,8 @@ function Feature2() {
                 style={{
                   color: "#FBAD70",
                   fontWeight: "400",
-                  fontSize: "60PX",
-                  fontFamily: "varera Round",
+                  fontSize: "30PX",
+                  fontFamily: "varela Round",
                 }}
               >
                 0.1953883
@@ -158,18 +156,18 @@ function Feature2() {
                 marginTop: "15px",
                 marginBottom: "15px",
                 width: "300px",
-                paddingLeft: "50px",
+                paddingLeft: "20px",
               }}
             >
               <img
-                style={{ width: "62px", height: "62px" }}
+                style={{ width: "62px", height: "62px", marginLeft: "70px"}}
                 src={Ethereum}
                 alt="img"
               />
               <h4
                 style={{
                   fontWeight: "400",
-                  fontSize: "40px",
+                  fontSize: "30px",
                   fontFamily: "varela Round",
                   marginRight: "10px,",
                 }}
@@ -183,22 +181,22 @@ function Feature2() {
               />
             </div>
           </div>
-          <p style={{ fontFamily: "varela Round" }}>Signup to get cashback</p>
+          <p style={{ fontFamily: "varela Round", }}>Signup to get cashback</p>
           <div
             style={{
               display: "flex",
               marginTop: "20px",
               border: "none",
               flexDirection: "column",
-              width: "1079px",
+              width: "750px",
             }}
           >
             <div
               style={{
                 display: "flex",
                 justifyContent: "space-between",
-                height: "30px",
                 marginleft: "0",
+                width: "750px",
               }}
             >
               <div>
@@ -206,7 +204,7 @@ function Feature2() {
                   style={{
                     color: "#FF0091",
                     fontFamily: "varela Round",
-                    fontSize: "20px",
+                    fontSize: "15px",
                     fontWeight: "400",
                   }}
                 >
@@ -218,7 +216,7 @@ function Feature2() {
                   style={{
                     color: "#FF0091",
                     fontFamily: "varela Round",
-                    fontSize: "20px",
+                    fontSize: "15px",
                     fontWeight: "400",
                   }}
                 >
@@ -233,8 +231,8 @@ function Feature2() {
                   height: "110px",
                   borderRadius: "10px",
                   border: "solid 1px #5F5F5F",
-                  width: "1060px",
-                  fontSize: "35px",
+                  width: "730px",
+                  fontSize: "25px",
                   paddingLeft: "30px",
                   marginTop: "20px",
                 }}
@@ -252,21 +250,21 @@ function Feature2() {
               <p
                 style={{
                   fontFamily: "varela Round",
-                  fontSize: "24px",
+                  fontSize: "17px",
                   fontWeight: "400",
                 }}
               >
                 FIO protocol names are supported
               </p>
               <img
-                style={{ width: "30px", height: "30px", marginLeft: "30px" }}
+                style={{ width: "27px", height: "27px", marginLeft: "30px" }}
                 src={fox}
                 alt="hss"
               />
             </div>
             <button
               style={{
-                width: "900px",
+                width: "750px",
                 height: "100.5px",
                 color: "white",
                 fontFamily: "Varela Round",
@@ -285,7 +283,7 @@ function Feature2() {
             <p
               style={{
                 fontFamily: "Varela Round",
-                fontSize: "30px",
+                fontSize: "20px",
                 fontWeight: "36px",
                 textAlign: "left",
               }}
@@ -293,10 +291,15 @@ function Feature2() {
               Please make sure you’re on https://app.tochiswap.co
             </p>
             <button
-              style={{ backgroundColor: "black", margin: "auto" }}
+              style={{ backgroundColor: "black", margin: "auto", width:"300px" }}
               className="btn-bum"
             >
-              <img src={lock_checked} alt="img" /> secure
+              <img style={
+                {
+                  width: "25px",
+                  height: "25px",
+                }
+              } src={lock_checked} alt="img" /> secure
             </button>
           </div>
         </div>
