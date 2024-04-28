@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./Feature.css";
 import Vector from "../feature2/Vector.png";
