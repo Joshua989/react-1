@@ -17,11 +17,11 @@ function Feature2() {
                         </button>
                         <div className='sm-1'>
                         <p className='p2'>Buy / Sell Crypto</p>
-                        <img style={{width : "36px", height: "36px"}} src={wallet} alt = "man" />
+                        <img style={{width : "30px", height: "30px"}} src={wallet} alt = "man" />
                         </div>
                         <div style={ { display : "flex", justifyContent : "space-between", alignItems : "center"}}>
                             <p style={{fontFamily:"varela Round", fontSize : "30px", marginRight : "5px"}}>Exchange Pro</p>
-                            <img  style= {{ width:"36px", height:"36px"}} src={Vector} alt="Man" />
+                            <img  style= {{ width:"30px", height:"30px"}} src={Vector} alt="Man" />
                         </div>
                     </div>
                     <div  style={{justifyContent :"space-between", paddingRight:"100px" }} className='sub-b11'>
@@ -31,13 +31,13 @@ function Feature2() {
                         </div>
                         <div style={{display:"flex", alignItems:"center"}}>
                             <img style={{width :"62px", height:"62px"}} src={Bitcoin} alt="img" />
-                            <h4 style={{fontWeight:"400", fontSize:"48px", fontFamily:"varela Round", marginRight:"10px,"}}>BTC</h4>
+                            <h4 style={{fontWeight:"400", fontSize:"35px", fontFamily:"varela Round", marginRight:"10px,"}}>BTC</h4>
                             <img style={{width :"10px", height:"10px" , marginLeft:"30px"}} src={mark} alt='hss' />
                         </div>
                     </div>
                     <div  style={{ height:"100px", border:"none", flexDirection:"column", paddingRight:"0", paddingLeft:"0px", justifyContent:"space-between"}} className='sub-b11'>
-                        <p  style={{fontSize:"26px"}}>No hidden fees</p>
-                        < p style={{fontSize:"24px"}}>Estimated rate: 1BTC - 13.488888 ETH</p>
+                        <p  style={{fontSize:"20px"}}>No hidden fees</p>
+                        < p style={{fontSize:"20px"}}>Estimated rate: 1BTC - 13.488888 ETH</p>
                     </div>
                     <div  style={{justifyContent :"space-between", paddingRight:"30px" }} className='sub-b11'>
                         <div style={ { display : ' flex', flexDirection : 'column', paddingTop : "30px" }}>
@@ -46,7 +46,7 @@ function Feature2() {
                         </div>
                         <div style={{ display: "flex", alignItems: "center", borderLeft: "solid 1px #C9C9C9", marginTop:"15px", marginBottom:"15px", width:"300px", paddingLeft:"50px" }}>
                             <img style={{width :"62px", height:"62px"}} src={Ethereum} alt="img" />
-                            <h4 style={{fontWeight:"400", fontSize:"48px", fontFamily:"varela Round", marginRight:"10px,"}}>ETH</h4>
+                            <h4 style={{fontWeight:"400", fontSize:"40px", fontFamily:"varela Round", marginRight:"10px,"}}>ETH</h4>
                             <img style={{width :"10px", height:"10px" , marginLeft:"30px"}} src={mark} alt='hss' />
                         </div>
                     </div>
@@ -54,10 +54,10 @@ function Feature2() {
                     <div style={{display:"flex",marginTop:"20px", border:"none", flexDirection:"column"  , width:"1079px", }} >
                         <div style={{display:"flex" , justifyContent:'space-between', height:"30px", marginleft:"0"}}>
                             <div>                           
-                                 <p style={{color:"#FF0091", fontFamily:"varela Round", fontSize:"24px", fontWeight:"400",}}>Recipient Wallet</p>
+                                 <p style={{color:"#FF0091", fontFamily:"varela Round", fontSize:"20px", fontWeight:"400",}}>Recipient Wallet</p>
                                  </div>
                             <div>
-                            <p style={{color:"#FF0091", fontFamily:"varela Round", fontSize:"24px", fontWeight:"400"}}>Don’t have a wallet yet?</p>
+                            <p style={{color:"#FF0091", fontFamily:"varela Round", fontSize:"20px", fontWeight:"400"}}>Don’t have a wallet yet?</p>
 
                             </div>
                         </div>
@@ -69,7 +69,7 @@ function Feature2() {
                             <img style={{width :"30px", height:"30px" , marginLeft:"30px"}} src={fox} alt='hss' />
 
                         </div>
-                        <button  style={{width:"1079px", height:"100.5px" , color:"white", fontFamily:'Varela Round', fontSize:"35px", border:"none", borderRadius:"14px" , background: "linear-gradient(90deg, #5200FF 0%, #FF0059 100%)"}}>
+                        <button  style={{width:"900px", height:"100.5px" , color:"white", fontFamily:'Varela Round', fontSize:"35px", border:"none", borderRadius:"14px" , background: "linear-gradient(90deg, #5200FF 0%, #FF0059 100%)"}}>
                         Exchange
                         </button>
                     </div>
@@ -77,7 +77,7 @@ function Feature2() {
                 </div>
                 <div className='box-2'>
                     <div className='sub-box'>
-                        <p style={{fontFamily:"Varela Round", fontSize:"36px" , fontWeight:"36px"}}>Please make sure you’re on https://app.tochiswap.co</p>
+                        <p style={{fontFamily:"Varela Round", fontSize:"30px" , fontWeight:"36px"}}>Please make sure you’re on https://app.tochiswap.co</p>
                         <button style={{backgroundColor:"black"}} className='btn-bum'><img src={lock_checked} alt="img" /> secure</button>
                     </div>
                 </div>
