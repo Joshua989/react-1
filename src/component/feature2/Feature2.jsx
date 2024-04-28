@@ -37,7 +37,7 @@ function Feature2() {
                   marginRight: "5px",
                 }}
               >
-                Exchange Pro
+                Exchange Pr
               </p>
               <img
                 style={{ width: "30px", height: "30px" }}
