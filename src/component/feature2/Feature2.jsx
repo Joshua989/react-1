@@ -24,17 +24,16 @@ function Feature2() {
                 alt="man"
               />
             </div>
-            <div
+            <div className="pop1"
               style={{
                 display: "flex",
                 justifyContent: "space-between",
                 alignItems: "center",
               }}
             >
-              <p
+              <p 
                 style={{
                   fontFamily: "varela Round",
-                  fontSize: "17px",
                   marginRight: "5px",
                 }}
               >
