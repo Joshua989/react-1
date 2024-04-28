@@ -109,11 +109,12 @@ function Feature2() {
               flexDirection: "column",
               paddingRight: "0",
               paddingLeft: "0px",
+              backgroundColor: "rgba(0, 0, 0, 0.1)",
             }}
-            className="sub-b11"
+            className="sub-b111"
           >
-            <p style={{ fontSize: "15px",  }}>No hidden fees</p>
-            <p style={{ fontSize: "15px",  marginBottom:"10px"}}>
+            <p style={{ fontSize: "15px", textAlign:"left" , lineHeight:"0px" }}>No hidden fees</p>
+            <p style={{ fontSize: "15px", textAlign:"left",  lineHeight:"0px"}}>
               Estimated rate: 1BTC - 13.488888 ETH
             </p>
           </div>
@@ -181,7 +182,18 @@ function Feature2() {
               />
             </div>
           </div>
-          <p style={{ fontFamily: "varela Round", }}>Signup to get cashback</p>
+          <div style={
+            {
+              display:"flex",
+              textAlign:"left",
+              alignContent:"start",
+              alignItems:"left",
+              width:"750px",
+            }
+          }>
+          <p style={{ fontFamily: "varela Round", textAlign:"left", fontSize:"16px"}}>Signup to get cashback</p>
+
+          </div>
           <div
             style={{
               display: "flex",
@@ -286,18 +298,19 @@ function Feature2() {
                 fontSize: "20px",
                 fontWeight: "36px",
                 textAlign: "left",
+                marginLeft: "20px",
               }}
             >
               Please make sure you’re on https://app.tochiswap.co
             </p>
             <button
-              style={{ backgroundColor: "black", margin: "auto", width:"300px" }}
+              style={{ backgroundColor: "black", margin: "auto", width:"340px", borderRadius:"15px" }}
               className="btn-bum"
             >
               <img style={
                 {
-                  width: "25px",
-                  height: "25px",
+                  width: "27px",
+                  height: "27px",
                 }
               } src={lock_checked} alt="img" /> secure
             </button>

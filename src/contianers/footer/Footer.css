@@ -1,0 +1,19 @@
+.main-1{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    margin-top: 1000px;
+}
+p{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+img{
+    width: 15px;
+    height: 15px;
+}
