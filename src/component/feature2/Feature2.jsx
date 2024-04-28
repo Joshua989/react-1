@@ -9,7 +9,7 @@ import Ethereum from "../feature2/Ethereum.png";
 import fox from "../feature2/fox.png";
 function Feature2() {
   return (
-    <div className="main-f">
+    <div >
       <div className="box">
         <div className="box1">
           <div className="sub-b11">
