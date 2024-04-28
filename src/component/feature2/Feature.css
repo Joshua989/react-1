@@ -135,6 +135,9 @@ border: 0px 1px 0px 0px;
 opacity: 0px;
 
 }
+a{
+  margin-right: 40px;
+}
 @media only screen and (max-width: 1200px) {
   .box {
       width: 100%;

@@ -20,18 +20,18 @@ const Footer = () => {
         {
           alignItems:"center",
           display:"flex",
-          paddingLeft:"75px"
+          paddingLeft:"40px"
         }
       }
       >
         <a href="#">
-         <img style={{width:"10px", height:"10px"}}  src={x} alt="Man" />
+        <img style={{width:"10px", height:"10px",}}  src={x} alt="Man" />
         </a>
         <a href="#">
-        <img style={{width:"10px", height:"10px"}}  src={t} alt="Man" />
+        <img style={{width:"10px", height:"10px",}}  src={t} alt="Man" />
         </a>
         <a href="#">
-        <img  style={{width:"10px", height:"10px"}} src={d} alt="Man" />
+        <img  style={{width:"10px", height:"10px", }} src={d} alt="Man" />
 
         </a>
 
